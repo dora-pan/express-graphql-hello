@@ -1,5 +1,5 @@
 # express-graphql-hello
-A hello demo to use GraphQL.js and express-graphql.
+A hello demo for using GraphQL.js and express-graphql to build a GraphQL Server.
 
 ## 安装
 
